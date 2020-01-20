@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Media Player</string>
+    <string name="text_artist">Adele</string>
+    <string name="text_title">Make You Feel My love</string>
+    <string name="text_play">Play</string>
+</resources>
